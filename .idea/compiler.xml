@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Numeral_System_Converter-task_main" target="11" />
+      <module name="Numeral_System_Converter-task_test" target="11" />
+      <module name="Problems-Account_main" target="11" />
+      <module name="Problems-Account_test" target="11" />
+      <module name="Problems-Area_of_a_circle_main" target="11" />
+      <module name="Problems-Area_of_a_circle_test" target="11" />
+      <module name="Problems-Avoid_division_by_zero_main" target="11" />
+      <module name="Problems-Avoid_division_by_zero_test" target="11" />
+      <module name="Problems-Binary_search_main" target="11" />
+      <module name="Problems-Binary_search_test" target="11" />
+      <module name="Problems-Calculator_with_four_methods_main" target="11" />
+      <module name="Problems-Calculator_with_four_methods_test" target="11" />
+      <module name="Problems-Catching_some_exceptions_main" target="11" />
+      <module name="Problems-Catching_some_exceptions_test" target="11" />
+      <module name="Problems-Classes_for_Hospital_main" target="11" />
+      <module name="Problems-Classes_for_Hospital_test" target="11" />
+      <module name="Problems-Complex_main" target="11" />
+      <module name="Problems-Complex_test" target="11" />
+      <module name="Problems-Concat_all_strings_without_digits_main" target="11" />
+      <module name="Problems-Concat_all_strings_without_digits_test" target="11" />
+      <module name="Problems-Converting_and_multiplying_main" target="11" />
+      <module name="Problems-Converting_and_multiplying_test" target="11" />
+      <module name="Problems-Creating_instances_main" target="11" />
+      <module name="Problems-Creating_instances_test" target="11" />
+      <module name="Problems-Decompose_a_math_function_main" target="11" />
+      <module name="Problems-Decompose_a_math_function_test" target="11" />
+      <module name="Problems-Difference_between_two_doubles_main" target="11" />
+      <module name="Problems-Difference_between_two_doubles_test" target="11" />
+      <module name="Problems-Distance_main" target="11" />
+      <module name="Problems-Distance_test" target="11" />
+      <module name="Problems-Double_characters_main" target="11" />
+      <module name="Problems-Double_characters_test" target="11" />
+      <module name="Problems-Find_the_first_occurrence_of_the_word__the_main" target="11" />
+      <module name="Problems-Find_the_first_occurrence_of_the_word__the_test" target="11" />
+      <module name="Problems-Fix_compile-time_errors_main" target="11" />
+      <module name="Problems-Fix_compile-time_errors_test" target="11" />
+      <module name="Problems-Fix_the_program_main" target="11" />
+      <module name="Problems-Fix_the_program_test" target="11" />
+      <module name="Problems-Fixing_the_main_method__1__main" target="11" />
+      <module name="Problems-Fixing_the_main_method__1__test" target="11" />
+      <module name="Problems-Fixing_the_main_method_main" target="11" />
+      <module name="Problems-Fixing_the_main_method_test" target="11" />
+      <module name="Problems-Getting_the_fullname_main" target="11" />
+      <module name="Problems-Getting_the_fullname_test" target="11" />
+      <module name="Problems-Move_the_first_N_characters_main" target="11" />
+      <module name="Problems-Move_the_first_N_characters_test" target="11" />
+      <module name="Problems-Print__Hello,_Java!_main" target="11" />
+      <module name="Problems-Print__Hello,_Java!_test" target="11" />
+      <module name="Problems-Sorting_arrays_main" target="11" />
+      <module name="Problems-Sorting_arrays_test" target="11" />
+      <module name="Problems-String_to_double_conversion_main" target="11" />
+      <module name="Problems-String_to_double_conversion_test" target="11" />
+      <module name="Problems-What's_wrong_main" target="11" />
+      <module name="Problems-What's_wrong_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
